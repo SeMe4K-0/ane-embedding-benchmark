@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+models/
+results/raw/power_*.log
+results/raw/*.log
+.ipynb_checkpoints/

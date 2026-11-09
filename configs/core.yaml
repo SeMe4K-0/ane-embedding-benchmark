@@ -1,0 +1,8 @@
+# Main grid: 6 models x 5 backends x 3 lengths x 2 batch sizes = 180 configurations.
+models: [minilm-l6, minilm-l12, bge-small, bge-base, e5-base, me5-small]
+backends: [pt-cpu, pt-mps, cm-cpu, cm-gpu, cm-ane]
+lengths: [32, 128, 512]
+batches: [1, 32]
+warmup:  {"1": 20, "32": 5}
+repeats: {"1": 100, "32": 30}
+min_window_s: 6.0

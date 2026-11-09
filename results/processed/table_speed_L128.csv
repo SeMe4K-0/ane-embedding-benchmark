@@ -1,0 +1,9 @@
+,latency_p50_ms_B1,latency_p50_ms_B1,latency_p50_ms_B1,latency_p50_ms_B1,latency_p50_ms_B1,throughput_emb_s_B32,throughput_emb_s_B32,throughput_emb_s_B32,throughput_emb_s_B32,throughput_emb_s_B32
+backend,pt-cpu,pt-mps,cm-cpu,cm-gpu,cm-ane,pt-cpu,pt-mps,cm-cpu,cm-gpu,cm-ane
+model,,,,,,,,,,
+minilm-l6,6.89,6.88,1.64,1.3,0.63,590.2,1326.71,1262.03,2097.86,1662.51
+bge-small,13.25,5.39,3.27,3.25,1.09,297.36,692.96,647.02,1064.82,860.88
+minilm-l12,13.38,5.38,3.26,3.22,1.12,297.28,687.59,645.27,1065.44,856.37
+bge-base,23.61,7.31,7.32,5.45,2.18,101.86,233.71,244.06,301.44,380.54
+e5-base,23.63,7.29,7.37,5.45,2.19,101.52,233.83,243.21,301.65,380.75
+me5-small,13.39,5.33,3.26,3.27,1.11,299.09,690.33,643.33,1066.26,855.59

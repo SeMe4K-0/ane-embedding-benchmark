@@ -1,0 +1,8 @@
+# Short run to check the setup (20 configurations, a few minutes).
+models: [minilm-l6, bge-small]
+backends: [pt-cpu, pt-mps, cm-cpu, cm-gpu, cm-ane]
+lengths: [128]
+batches: [1, 32]
+warmup:  {"1": 10, "32": 3}
+repeats: {"1": 30, "32": 10}
+min_window_s: 6.0

@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper below."
+title: "ane-embedding-benchmark: text embeddings on the Apple Neural Engine"
+type: software
+license: MIT
+version: 1.0.0
+authors:
+  - family-names: Davshits
+    given-names: Semyon
+    affiliation: Bauman Moscow State Technical University
+  - family-names: Loseva
+    given-names: Svetlana
+    affiliation: Bauman Moscow State Technical University
+repository-code: "https://github.com/SeMe4K-0/ane-embedding-benchmark"
+keywords:
+  - Apple Neural Engine
+  - Core ML
+  - text embeddings
+  - energy efficiency
+preferred-citation:
+  type: conference-paper
+  title: "Latency, energy, and fidelity of text embedding inference on the Apple Neural Engine"
+  authors:
+    - family-names: Davshits
+      given-names: Semyon
+    - family-names: Loseva
+      given-names: Svetlana
+  collection-title: "PIERE 2026"
+  year: 2026

@@ -1,0 +1,7 @@
+model,compute_units,batch,length,precision,ops_total,ops_const_excluded,ane_ops,gpu_ops,cpu_ops,unassigned_ops,ane_share,top_fallback,detail_csv
+minilm-l6,CPU_AND_NE,1,128,fp16,172,219,147,0,25,0,0.8547,ios17.cast->CPU=5; ios17.add->CPU=3; ios17.expand_dims->CPU=3; tile->CPU=2; ios16.reduce_sum->CPU=2,results/processed/placement/minilm-l6_CPU_AND_NE_B1_L128.csv
+minilm-l12,CPU_AND_NE,1,128,fp16,316,418,291,0,25,0,0.9209,ios17.cast->CPU=5; ios17.add->CPU=3; ios17.expand_dims->CPU=3; tile->CPU=2; ios16.reduce_sum->CPU=2,results/processed/placement/minilm-l12_CPU_AND_NE_B1_L128.csv
+bge-small,CPU_AND_NE,1,128,fp16,310,414,296,0,14,0,0.9548,ios17.cast->CPU=4; ios17.add->CPU=3; ios17.expand_dims->CPU=2; ios17.greater_equal->CPU=1; select->CPU=1,results/processed/placement/bge-small_CPU_AND_NE_B1_L128.csv
+bge-base,CPU_AND_NE,1,128,fp16,310,414,296,0,14,0,0.9548,ios17.cast->CPU=4; ios17.add->CPU=3; ios17.expand_dims->CPU=2; ios17.greater_equal->CPU=1; select->CPU=1,results/processed/placement/bge-base_CPU_AND_NE_B1_L128.csv
+e5-base,CPU_AND_NE,1,128,fp16,316,418,291,0,25,0,0.9209,ios17.cast->CPU=5; ios17.add->CPU=3; ios17.expand_dims->CPU=3; tile->CPU=2; ios16.reduce_sum->CPU=2,results/processed/placement/e5-base_CPU_AND_NE_B1_L128.csv
+me5-small,CPU_AND_NE,1,128,fp16,313,415,291,0,22,0,0.9297,ios17.add->CPU=3; ios17.expand_dims->CPU=3; tile->CPU=2; ios17.cast->CPU=2; ios16.reduce_sum->CPU=2,results/processed/placement/me5-small_CPU_AND_NE_B1_L128.csv

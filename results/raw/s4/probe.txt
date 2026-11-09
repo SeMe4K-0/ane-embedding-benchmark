@@ -1,0 +1,2 @@
+readiness probe before session s4 (src.probe: bge-small, pt-mps, B32, L128, 8 s, reference s1)
+RATIO 0.9897

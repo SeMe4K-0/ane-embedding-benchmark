@@ -1,0 +1,9 @@
+# Control backends: separate the effect of fp16 from the effect of the backend,
+# and check the ALL compute-unit policy.
+models: [minilm-l6, bge-base]
+backends: [cm-cpu-32, pt-mps-16, cm-all]
+lengths: [128]
+batches: [1, 32]
+warmup:  {"1": 20, "32": 5}
+repeats: {"1": 100, "32": 30}
+min_window_s: 6.0

@@ -1,0 +1,2730 @@
+*** Sampled system activity (Sun Sep  6 23:31:30 2026 +0300) (216.84ms elapsed) ***
+CPU Power: 4128 mW
+GPU Power: 0 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Sun Sep  6 23:31:30 2026 +0300) (216.96ms elapsed) ***
+CPU Power: 4429 mW
+GPU Power: 5 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 5 mW
+*** Sampled system activity (Sun Sep  6 23:31:30 2026 +0300) (216.96ms elapsed) ***
+CPU Power: 4462 mW
+GPU Power: 0 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Sun Sep  6 23:31:30 2026 +0300) (216.45ms elapsed) ***
+CPU Power: 3276 mW
+GPU Power: 0 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Sun Sep  6 23:31:31 2026 +0300) (217.25ms elapsed) ***
+CPU Power: 3392 mW
+GPU Power: 5 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 5 mW
+*** Sampled system activity (Sun Sep  6 23:31:31 2026 +0300) (217.21ms elapsed) ***
+CPU Power: 3945 mW
+GPU Power: 37 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 37 mW
+*** Sampled system activity (Sun Sep  6 23:31:31 2026 +0300) (217.10ms elapsed) ***
+CPU Power: 4123 mW
+GPU Power: 9 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 9 mW
+*** Sampled system activity (Sun Sep  6 23:31:31 2026 +0300) (216.91ms elapsed) ***
+CPU Power: 4444 mW
+GPU Power: 9 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 9 mW
+*** Sampled system activity (Sun Sep  6 23:31:31 2026 +0300) (216.75ms elapsed) ***
+CPU Power: 1463 mW
+GPU Power: 5 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 5 mW
+*** Sampled system activity (Sun Sep  6 23:31:32 2026 +0300) (219.77ms elapsed) ***
+CPU Power: 168 mW
+GPU Power: 0 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Sun Sep  6 23:31:32 2026 +0300) (223.68ms elapsed) ***
+CPU Power: 85 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:31:32 2026 +0300) (228.13ms elapsed) ***
+CPU Power: 75 mW
+GPU Power: 22 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 22 mW
+*** Sampled system activity (Sun Sep  6 23:31:32 2026 +0300) (226.64ms elapsed) ***
+CPU Power: 66 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:31:33 2026 +0300) (224.73ms elapsed) ***
+CPU Power: 360 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:31:33 2026 +0300) (219.93ms elapsed) ***
+CPU Power: 155 mW
+GPU Power: 5 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 5 mW
+*** Sampled system activity (Sun Sep  6 23:31:33 2026 +0300) (221.09ms elapsed) ***
+CPU Power: 95 mW
+GPU Power: 0 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 5 mW
+*** Sampled system activity (Sun Sep  6 23:31:33 2026 +0300) (224.90ms elapsed) ***
+CPU Power: 80 mW
+GPU Power: 18 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 18 mW
+*** Sampled system activity (Sun Sep  6 23:31:33 2026 +0300) (225.12ms elapsed) ***
+CPU Power: 80 mW
+GPU Power: 9 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 9 mW
+*** Sampled system activity (Sun Sep  6 23:31:34 2026 +0300) (225.61ms elapsed) ***
+CPU Power: 111 mW
+GPU Power: 22 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 22 mW
+*** Sampled system activity (Sun Sep  6 23:31:34 2026 +0300) (224.90ms elapsed) ***
+CPU Power: 325 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:31:34 2026 +0300) (218.84ms elapsed) ***
+CPU Power: 183 mW
+GPU Power: 5 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 5 mW
+*** Sampled system activity (Sun Sep  6 23:31:34 2026 +0300) (221.89ms elapsed) ***
+CPU Power: 72 mW
+GPU Power: 5 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 5 mW
+*** Sampled system activity (Sun Sep  6 23:31:35 2026 +0300) (224.87ms elapsed) ***
+CPU Power: 89 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:31:35 2026 +0300) (224.08ms elapsed) ***
+CPU Power: 62 mW
+GPU Power: 0 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Sun Sep  6 23:31:35 2026 +0300) (224.21ms elapsed) ***
+CPU Power: 192 mW
+GPU Power: 9 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 9 mW
+*** Sampled system activity (Sun Sep  6 23:31:35 2026 +0300) (225.22ms elapsed) ***
+CPU Power: 120 mW
+GPU Power: 18 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 18 mW
+*** Sampled system activity (Sun Sep  6 23:31:35 2026 +0300) (225.09ms elapsed) ***
+CPU Power: 124 mW
+GPU Power: 9 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 9 mW
+*** Sampled system activity (Sun Sep  6 23:31:36 2026 +0300) (223.88ms elapsed) ***
+CPU Power: 147 mW
+GPU Power: 49 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 49 mW
+*** Sampled system activity (Sun Sep  6 23:31:36 2026 +0300) (221.63ms elapsed) ***
+CPU Power: 144 mW
+GPU Power: 9 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 9 mW
+*** Sampled system activity (Sun Sep  6 23:31:36 2026 +0300) (222.64ms elapsed) ***
+CPU Power: 135 mW
+GPU Power: 13 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 13 mW
+*** Sampled system activity (Sun Sep  6 23:31:36 2026 +0300) (224.01ms elapsed) ***
+CPU Power: 71 mW
+GPU Power: 0 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Sun Sep  6 23:31:37 2026 +0300) (224.93ms elapsed) ***
+CPU Power: 89 mW
+GPU Power: 9 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 9 mW
+*** Sampled system activity (Sun Sep  6 23:31:37 2026 +0300) (226.37ms elapsed) ***
+CPU Power: 84 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:31:37 2026 +0300) (225.32ms elapsed) ***
+CPU Power: 75 mW
+GPU Power: 9 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 9 mW
+*** Sampled system activity (Sun Sep  6 23:31:37 2026 +0300) (226.26ms elapsed) ***
+CPU Power: 137 mW
+GPU Power: 0 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Sun Sep  6 23:31:37 2026 +0300) (224.89ms elapsed) ***
+CPU Power: 80 mW
+GPU Power: 9 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 9 mW
+*** Sampled system activity (Sun Sep  6 23:31:38 2026 +0300) (225.27ms elapsed) ***
+CPU Power: 200 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:31:38 2026 +0300) (222.27ms elapsed) ***
+CPU Power: 85 mW
+GPU Power: 0 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Sun Sep  6 23:31:38 2026 +0300) (225.68ms elapsed) ***
+CPU Power: 66 mW
+GPU Power: 0 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:31:38 2026 +0300) (225.26ms elapsed) ***
+CPU Power: 75 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Sun Sep  6 23:31:39 2026 +0300) (225.41ms elapsed) ***
+CPU Power: 106 mW
+GPU Power: 27 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 27 mW
+*** Sampled system activity (Sun Sep  6 23:31:39 2026 +0300) (227.01ms elapsed) ***
+CPU Power: 66 mW
+GPU Power: 0 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Sun Sep  6 23:31:39 2026 +0300) (225.64ms elapsed) ***
+CPU Power: 80 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:31:39 2026 +0300) (225.60ms elapsed) ***
+CPU Power: 75 mW
+GPU Power: 27 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 27 mW
+*** Sampled system activity (Sun Sep  6 23:31:40 2026 +0300) (225.24ms elapsed) ***
+CPU Power: 235 mW
+GPU Power: 0 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Sun Sep  6 23:31:40 2026 +0300) (221.80ms elapsed) ***
+CPU Power: 131 mW
+GPU Power: 5 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 5 mW
+*** Sampled system activity (Sun Sep  6 23:31:40 2026 +0300) (224.62ms elapsed) ***
+CPU Power: 71 mW
+GPU Power: 0 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:31:40 2026 +0300) (224.68ms elapsed) ***
+CPU Power: 102 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Sun Sep  6 23:31:40 2026 +0300) (222.97ms elapsed) ***
+CPU Power: 90 mW
+GPU Power: 27 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 27 mW
+*** Sampled system activity (Sun Sep  6 23:31:41 2026 +0300) (225.62ms elapsed) ***
+CPU Power: 168 mW
+GPU Power: 27 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 31 mW
+*** Sampled system activity (Sun Sep  6 23:31:41 2026 +0300) (221.87ms elapsed) ***
+CPU Power: 149 mW
+GPU Power: 36 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 50 mW
+*** Sampled system activity (Sun Sep  6 23:31:41 2026 +0300) (223.91ms elapsed) ***
+CPU Power: 232 mW
+GPU Power: 31 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 18 mW
+*** Sampled system activity (Sun Sep  6 23:31:41 2026 +0300) (222.42ms elapsed) ***
+CPU Power: 108 mW
+GPU Power: 9 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:31:42 2026 +0300) (225.63ms elapsed) ***
+CPU Power: 111 mW
+GPU Power: 13 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 13 mW
+*** Sampled system activity (Sun Sep  6 23:31:42 2026 +0300) (226.25ms elapsed) ***
+CPU Power: 97 mW
+GPU Power: 9 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 9 mW
+*** Sampled system activity (Sun Sep  6 23:31:42 2026 +0300) (225.42ms elapsed) ***
+CPU Power: 98 mW
+GPU Power: 9 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 9 mW
+*** Sampled system activity (Sun Sep  6 23:31:42 2026 +0300) (223.44ms elapsed) ***
+CPU Power: 94 mW
+GPU Power: 22 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 22 mW
+*** Sampled system activity (Sun Sep  6 23:31:42 2026 +0300) (224.68ms elapsed) ***
+CPU Power: 80 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:31:43 2026 +0300) (225.45ms elapsed) ***
+CPU Power: 115 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:31:43 2026 +0300) (224.44ms elapsed) ***
+CPU Power: 80 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:31:43 2026 +0300) (224.91ms elapsed) ***
+CPU Power: 76 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:31:43 2026 +0300) (223.45ms elapsed) ***
+CPU Power: 72 mW
+GPU Power: 0 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:31:44 2026 +0300) (224.74ms elapsed) ***
+CPU Power: 93 mW
+GPU Power: 9 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Sun Sep  6 23:31:44 2026 +0300) (225.06ms elapsed) ***
+CPU Power: 71 mW
+GPU Power: 18 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 18 mW
+*** Sampled system activity (Sun Sep  6 23:31:44 2026 +0300) (225.56ms elapsed) ***
+CPU Power: 89 mW
+GPU Power: 31 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 31 mW
+*** Sampled system activity (Sun Sep  6 23:31:44 2026 +0300) (225.17ms elapsed) ***
+CPU Power: 93 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:31:44 2026 +0300) (225.00ms elapsed) ***
+CPU Power: 471 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 9 mW
+*** Sampled system activity (Sun Sep  6 23:31:45 2026 +0300) (217.67ms elapsed) ***
+CPU Power: 538 mW
+GPU Power: 37 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 32 mW
+*** Sampled system activity (Sun Sep  6 23:31:45 2026 +0300) (218.54ms elapsed) ***
+CPU Power: 137 mW
+GPU Power: 9 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 9 mW
+*** Sampled system activity (Sun Sep  6 23:31:45 2026 +0300) (223.62ms elapsed) ***
+CPU Power: 107 mW
+GPU Power: 31 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 31 mW
+*** Sampled system activity (Sun Sep  6 23:31:45 2026 +0300) (225.74ms elapsed) ***
+CPU Power: 97 mW
+GPU Power: 0 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Sun Sep  6 23:31:46 2026 +0300) (225.92ms elapsed) ***
+CPU Power: 89 mW
+GPU Power: 9 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 9 mW
+*** Sampled system activity (Sun Sep  6 23:31:46 2026 +0300) (226.23ms elapsed) ***
+CPU Power: 155 mW
+GPU Power: 31 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 31 mW
+*** Sampled system activity (Sun Sep  6 23:31:46 2026 +0300) (223.60ms elapsed) ***
+CPU Power: 188 mW
+GPU Power: 9 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 9 mW
+*** Sampled system activity (Sun Sep  6 23:31:46 2026 +0300) (222.66ms elapsed) ***
+CPU Power: 400 mW
+GPU Power: 13 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 9 mW
+*** Sampled system activity (Sun Sep  6 23:31:46 2026 +0300) (220.57ms elapsed) ***
+CPU Power: 100 mW
+GPU Power: 9 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 9 mW
+*** Sampled system activity (Sun Sep  6 23:31:47 2026 +0300) (223.71ms elapsed) ***
+CPU Power: 103 mW
+GPU Power: 0 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 22 mW
+*** Sampled system activity (Sun Sep  6 23:31:47 2026 +0300) (224.21ms elapsed) ***
+CPU Power: 85 mW
+GPU Power: 22 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:31:47 2026 +0300) (226.18ms elapsed) ***
+CPU Power: 88 mW
+GPU Power: 22 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 22 mW
+*** Sampled system activity (Sun Sep  6 23:31:47 2026 +0300) (225.96ms elapsed) ***
+CPU Power: 66 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:31:48 2026 +0300) (225.57ms elapsed) ***
+CPU Power: 168 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:31:48 2026 +0300) (222.30ms elapsed) ***
+CPU Power: 81 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:31:48 2026 +0300) (223.97ms elapsed) ***
+CPU Power: 76 mW
+GPU Power: 0 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Sun Sep  6 23:31:48 2026 +0300) (225.69ms elapsed) ***
+CPU Power: 89 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:31:48 2026 +0300) (224.88ms elapsed) ***
+CPU Power: 67 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:31:49 2026 +0300) (224.67ms elapsed) ***
+CPU Power: 102 mW
+GPU Power: 0 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Sun Sep  6 23:31:49 2026 +0300) (226.82ms elapsed) ***
+CPU Power: 106 mW
+GPU Power: 0 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Sun Sep  6 23:31:49 2026 +0300) (225.80ms elapsed) ***
+CPU Power: 84 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:31:49 2026 +0300) (225.50ms elapsed) ***
+CPU Power: 89 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:31:50 2026 +0300) (225.03ms elapsed) ***
+CPU Power: 515 mW
+GPU Power: 31 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 31 mW
+*** Sampled system activity (Sun Sep  6 23:31:50 2026 +0300) (220.97ms elapsed) ***
+CPU Power: 86 mW
+GPU Power: 14 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 14 mW
+*** Sampled system activity (Sun Sep  6 23:31:50 2026 +0300) (224.49ms elapsed) ***
+CPU Power: 196 mW
+GPU Power: 31 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 31 mW
+*** Sampled system activity (Sun Sep  6 23:31:50 2026 +0300) (225.68ms elapsed) ***
+CPU Power: 186 mW
+GPU Power: 0 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Sun Sep  6 23:31:51 2026 +0300) (223.36ms elapsed) ***
+CPU Power: 90 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:31:51 2026 +0300) (225.96ms elapsed) ***
+CPU Power: 164 mW
+GPU Power: 53 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 53 mW
+*** Sampled system activity (Sun Sep  6 23:31:51 2026 +0300) (223.93ms elapsed) ***
+CPU Power: 143 mW
+GPU Power: 9 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 9 mW
+*** Sampled system activity (Sun Sep  6 23:31:51 2026 +0300) (223.37ms elapsed) ***
+CPU Power: 125 mW
+GPU Power: 18 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 18 mW
+*** Sampled system activity (Sun Sep  6 23:31:51 2026 +0300) (223.26ms elapsed) ***
+CPU Power: 81 mW
+GPU Power: 9 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 9 mW
+*** Sampled system activity (Sun Sep  6 23:31:52 2026 +0300) (224.12ms elapsed) ***
+CPU Power: 94 mW
+GPU Power: 0 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Sun Sep  6 23:31:52 2026 +0300) (225.17ms elapsed) ***
+CPU Power: 84 mW
+GPU Power: 18 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 27 mW
+*** Sampled system activity (Sun Sep  6 23:31:52 2026 +0300) (224.52ms elapsed) ***
+CPU Power: 98 mW
+GPU Power: 9 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Sun Sep  6 23:31:52 2026 +0300) (225.43ms elapsed) ***
+CPU Power: 84 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:31:53 2026 +0300) (225.71ms elapsed) ***
+CPU Power: 89 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:31:53 2026 +0300) (225.60ms elapsed) ***
+CPU Power: 106 mW
+GPU Power: 0 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Sun Sep  6 23:31:53 2026 +0300) (225.60ms elapsed) ***
+CPU Power: 84 mW
+GPU Power: 9 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 9 mW
+*** Sampled system activity (Sun Sep  6 23:31:53 2026 +0300) (225.16ms elapsed) ***
+CPU Power: 71 mW
+GPU Power: 18 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 18 mW
+*** Sampled system activity (Sun Sep  6 23:31:53 2026 +0300) (222.42ms elapsed) ***
+CPU Power: 85 mW
+GPU Power: 9 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 9 mW
+*** Sampled system activity (Sun Sep  6 23:31:54 2026 +0300) (223.91ms elapsed) ***
+CPU Power: 138 mW
+GPU Power: 22 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 31 mW
+*** Sampled system activity (Sun Sep  6 23:31:54 2026 +0300) (225.93ms elapsed) ***
+CPU Power: 71 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Sun Sep  6 23:31:54 2026 +0300) (225.30ms elapsed) ***
+CPU Power: 93 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:31:54 2026 +0300) (227.59ms elapsed) ***
+CPU Power: 79 mW
+GPU Power: 26 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 26 mW
+*** Sampled system activity (Sun Sep  6 23:31:55 2026 +0300) (226.17ms elapsed) ***
+CPU Power: 203 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:31:55 2026 +0300) (222.52ms elapsed) ***
+CPU Power: 121 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:31:55 2026 +0300) (224.74ms elapsed) ***
+CPU Power: 107 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:31:55 2026 +0300) (222.95ms elapsed) ***
+CPU Power: 76 mW
+GPU Power: 22 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 22 mW
+*** Sampled system activity (Sun Sep  6 23:31:55 2026 +0300) (225.25ms elapsed) ***
+CPU Power: 62 mW
+GPU Power: 0 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:31:56 2026 +0300) (224.90ms elapsed) ***
+CPU Power: 409 mW
+GPU Power: 13 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 22 mW
+*** Sampled system activity (Sun Sep  6 23:31:56 2026 +0300) (224.26ms elapsed) ***
+CPU Power: 259 mW
+GPU Power: 36 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 18 mW
+*** Sampled system activity (Sun Sep  6 23:31:56 2026 +0300) (223.77ms elapsed) ***
+CPU Power: 152 mW
+GPU Power: 9 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 9 mW
+*** Sampled system activity (Sun Sep  6 23:31:56 2026 +0300) (224.65ms elapsed) ***
+CPU Power: 129 mW
+GPU Power: 13 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 13 mW
+*** Sampled system activity (Sun Sep  6 23:31:57 2026 +0300) (223.45ms elapsed) ***
+CPU Power: 143 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:31:57 2026 +0300) (223.60ms elapsed) ***
+CPU Power: 81 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:31:57 2026 +0300) (222.06ms elapsed) ***
+CPU Power: 86 mW
+GPU Power: 5 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 18 mW
+*** Sampled system activity (Sun Sep  6 23:31:57 2026 +0300) (224.71ms elapsed) ***
+CPU Power: 93 mW
+GPU Power: 18 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 13 mW
+*** Sampled system activity (Sun Sep  6 23:31:57 2026 +0300) (226.04ms elapsed) ***
+CPU Power: 84 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:31:58 2026 +0300) (224.96ms elapsed) ***
+CPU Power: 107 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Sun Sep  6 23:31:58 2026 +0300) (226.29ms elapsed) ***
+CPU Power: 115 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:31:58 2026 +0300) (223.56ms elapsed) ***
+CPU Power: 116 mW
+GPU Power: 0 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Sun Sep  6 23:31:58 2026 +0300) (221.57ms elapsed) ***
+CPU Power: 99 mW
+GPU Power: 27 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 27 mW
+*** Sampled system activity (Sun Sep  6 23:31:59 2026 +0300) (223.79ms elapsed) ***
+CPU Power: 94 mW
+GPU Power: 31 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 31 mW
+*** Sampled system activity (Sun Sep  6 23:31:59 2026 +0300) (222.91ms elapsed) ***
+CPU Power: 81 mW
+GPU Power: 0 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Sun Sep  6 23:31:59 2026 +0300) (225.21ms elapsed) ***
+CPU Power: 67 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:31:59 2026 +0300) (227.06ms elapsed) ***
+CPU Power: 79 mW
+GPU Power: 0 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Sun Sep  6 23:31:59 2026 +0300) (225.78ms elapsed) ***
+CPU Power: 115 mW
+GPU Power: 27 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 27 mW
+*** Sampled system activity (Sun Sep  6 23:32:00 2026 +0300) (224.33ms elapsed) ***
+CPU Power: 76 mW
+GPU Power: 0 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Sun Sep  6 23:32:00 2026 +0300) (225.90ms elapsed) ***
+CPU Power: 155 mW
+GPU Power: 9 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 9 mW
+*** Sampled system activity (Sun Sep  6 23:32:00 2026 +0300) (225.08ms elapsed) ***
+CPU Power: 89 mW
+GPU Power: 22 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 22 mW
+*** Sampled system activity (Sun Sep  6 23:32:00 2026 +0300) (223.52ms elapsed) ***
+CPU Power: 81 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:32:01 2026 +0300) (222.92ms elapsed) ***
+CPU Power: 130 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:32:01 2026 +0300) (223.38ms elapsed) ***
+CPU Power: 134 mW
+GPU Power: 36 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 36 mW
+*** Sampled system activity (Sun Sep  6 23:32:01 2026 +0300) (223.01ms elapsed) ***
+CPU Power: 282 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:32:01 2026 +0300) (223.26ms elapsed) ***
+CPU Power: 130 mW
+GPU Power: 13 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 13 mW
+*** Sampled system activity (Sun Sep  6 23:32:02 2026 +0300) (223.66ms elapsed) ***
+CPU Power: 103 mW
+GPU Power: 9 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 9 mW
+*** Sampled system activity (Sun Sep  6 23:32:02 2026 +0300) (224.78ms elapsed) ***
+CPU Power: 93 mW
+GPU Power: 18 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 18 mW
+*** Sampled system activity (Sun Sep  6 23:32:02 2026 +0300) (225.48ms elapsed) ***
+CPU Power: 89 mW
+GPU Power: 9 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 9 mW
+*** Sampled system activity (Sun Sep  6 23:32:02 2026 +0300) (224.66ms elapsed) ***
+CPU Power: 93 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:32:02 2026 +0300) (224.42ms elapsed) ***
+CPU Power: 58 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:32:03 2026 +0300) (224.51ms elapsed) ***
+CPU Power: 111 mW
+GPU Power: 0 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Sun Sep  6 23:32:03 2026 +0300) (225.11ms elapsed) ***
+CPU Power: 80 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:32:03 2026 +0300) (225.31ms elapsed) ***
+CPU Power: 75 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:32:03 2026 +0300) (226.29ms elapsed) ***
+CPU Power: 57 mW
+GPU Power: 0 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Sun Sep  6 23:32:04 2026 +0300) (224.65ms elapsed) ***
+CPU Power: 116 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:32:04 2026 +0300) (225.04ms elapsed) ***
+CPU Power: 107 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:32:04 2026 +0300) (224.28ms elapsed) ***
+CPU Power: 89 mW
+GPU Power: 0 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Sun Sep  6 23:32:04 2026 +0300) (225.08ms elapsed) ***
+CPU Power: 67 mW
+GPU Power: 0 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:32:04 2026 +0300) (226.17ms elapsed) ***
+CPU Power: 75 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Sun Sep  6 23:32:05 2026 +0300) (225.61ms elapsed) ***
+CPU Power: 186 mW
+GPU Power: 9 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 9 mW
+*** Sampled system activity (Sun Sep  6 23:32:05 2026 +0300) (226.09ms elapsed) ***
+CPU Power: 75 mW
+GPU Power: 18 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 18 mW
+*** Sampled system activity (Sun Sep  6 23:32:05 2026 +0300) (224.71ms elapsed) ***
+CPU Power: 80 mW
+GPU Power: 22 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 22 mW
+*** Sampled system activity (Sun Sep  6 23:32:05 2026 +0300) (224.96ms elapsed) ***
+CPU Power: 67 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:32:06 2026 +0300) (225.62ms elapsed) ***
+CPU Power: 115 mW
+GPU Power: 9 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 9 mW
+*** Sampled system activity (Sun Sep  6 23:32:06 2026 +0300) (222.80ms elapsed) ***
+CPU Power: 166 mW
+GPU Power: 27 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 36 mW
+*** Sampled system activity (Sun Sep  6 23:32:06 2026 +0300) (223.33ms elapsed) ***
+CPU Power: 107 mW
+GPU Power: 13 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:32:06 2026 +0300) (223.93ms elapsed) ***
+CPU Power: 138 mW
+GPU Power: 9 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 9 mW
+*** Sampled system activity (Sun Sep  6 23:32:06 2026 +0300) (223.55ms elapsed) ***
+CPU Power: 98 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:32:07 2026 +0300) (224.26ms elapsed) ***
+CPU Power: 134 mW
+GPU Power: 22 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 22 mW
+*** Sampled system activity (Sun Sep  6 23:32:07 2026 +0300) (224.34ms elapsed) ***
+CPU Power: 58 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:32:07 2026 +0300) (225.35ms elapsed) ***
+CPU Power: 71 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:32:07 2026 +0300) (225.32ms elapsed) ***
+CPU Power: 71 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:32:08 2026 +0300) (222.50ms elapsed) ***
+CPU Power: 76 mW
+GPU Power: 0 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Sun Sep  6 23:32:08 2026 +0300) (224.50ms elapsed) ***
+CPU Power: 71 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Sun Sep  6 23:32:08 2026 +0300) (224.89ms elapsed) ***
+CPU Power: 102 mW
+GPU Power: 9 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 9 mW
+*** Sampled system activity (Sun Sep  6 23:32:08 2026 +0300) (224.65ms elapsed) ***
+CPU Power: 71 mW
+GPU Power: 18 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 18 mW
+*** Sampled system activity (Sun Sep  6 23:32:08 2026 +0300) (225.14ms elapsed) ***
+CPU Power: 76 mW
+GPU Power: 9 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 9 mW
+*** Sampled system activity (Sun Sep  6 23:32:09 2026 +0300) (225.11ms elapsed) ***
+CPU Power: 116 mW
+GPU Power: 22 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 22 mW
+*** Sampled system activity (Sun Sep  6 23:32:09 2026 +0300) (224.86ms elapsed) ***
+CPU Power: 67 mW
+GPU Power: 0 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Sun Sep  6 23:32:09 2026 +0300) (225.01ms elapsed) ***
+CPU Power: 76 mW
+GPU Power: 22 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 22 mW
+*** Sampled system activity (Sun Sep  6 23:32:09 2026 +0300) (223.85ms elapsed) ***
+CPU Power: 76 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 9 mW
+*** Sampled system activity (Sun Sep  6 23:32:10 2026 +0300) (225.67ms elapsed) ***
+CPU Power: 106 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:32:10 2026 +0300) (224.68ms elapsed) ***
+CPU Power: 67 mW
+GPU Power: 18 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 18 mW
+*** Sampled system activity (Sun Sep  6 23:32:10 2026 +0300) (224.96ms elapsed) ***
+CPU Power: 80 mW
+GPU Power: 13 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 13 mW
+*** Sampled system activity (Sun Sep  6 23:32:10 2026 +0300) (226.46ms elapsed) ***
+CPU Power: 75 mW
+GPU Power: 0 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Sun Sep  6 23:32:11 2026 +0300) (225.56ms elapsed) ***
+CPU Power: 98 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:32:11 2026 +0300) (222.04ms elapsed) ***
+CPU Power: 167 mW
+GPU Power: 23 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 23 mW
+*** Sampled system activity (Sun Sep  6 23:32:11 2026 +0300) (222.29ms elapsed) ***
+CPU Power: 238 mW
+GPU Power: 13 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 18 mW
+*** Sampled system activity (Sun Sep  6 23:32:11 2026 +0300) (223.12ms elapsed) ***
+CPU Power: 834 mW
+GPU Power: 9 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 9 mW
+*** Sampled system activity (Sun Sep  6 23:32:11 2026 +0300) (223.78ms elapsed) ***
+CPU Power: 85 mW
+GPU Power: 9 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 9 mW
+*** Sampled system activity (Sun Sep  6 23:32:12 2026 +0300) (225.18ms elapsed) ***
+CPU Power: 173 mW
+GPU Power: 22 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 22 mW
+*** Sampled system activity (Sun Sep  6 23:32:12 2026 +0300) (224.10ms elapsed) ***
+CPU Power: 67 mW
+GPU Power: 9 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 9 mW
+*** Sampled system activity (Sun Sep  6 23:32:12 2026 +0300) (224.33ms elapsed) ***
+CPU Power: 98 mW
+GPU Power: 18 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 18 mW
+*** Sampled system activity (Sun Sep  6 23:32:12 2026 +0300) (225.18ms elapsed) ***
+CPU Power: 80 mW
+GPU Power: 13 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 13 mW
+*** Sampled system activity (Sun Sep  6 23:32:13 2026 +0300) (224.40ms elapsed) ***
+CPU Power: 71 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:32:13 2026 +0300) (225.25ms elapsed) ***
+CPU Power: 102 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:32:13 2026 +0300) (224.72ms elapsed) ***
+CPU Power: 62 mW
+GPU Power: 0 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Sun Sep  6 23:32:13 2026 +0300) (224.96ms elapsed) ***
+CPU Power: 76 mW
+GPU Power: 22 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 22 mW
+*** Sampled system activity (Sun Sep  6 23:32:13 2026 +0300) (226.20ms elapsed) ***
+CPU Power: 71 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:32:14 2026 +0300) (223.47ms elapsed) ***
+CPU Power: 134 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:32:14 2026 +0300) (224.71ms elapsed) ***
+CPU Power: 76 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:32:14 2026 +0300) (225.07ms elapsed) ***
+CPU Power: 67 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:32:14 2026 +0300) (223.82ms elapsed) ***
+CPU Power: 85 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:32:15 2026 +0300) (222.94ms elapsed) ***
+CPU Power: 90 mW
+GPU Power: 22 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 22 mW
+*** Sampled system activity (Sun Sep  6 23:32:15 2026 +0300) (224.78ms elapsed) ***
+CPU Power: 89 mW
+GPU Power: 0 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Sun Sep  6 23:32:15 2026 +0300) (224.85ms elapsed) ***
+CPU Power: 85 mW
+GPU Power: 9 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 9 mW
+*** Sampled system activity (Sun Sep  6 23:32:15 2026 +0300) (224.54ms elapsed) ***
+CPU Power: 76 mW
+GPU Power: 27 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 27 mW
+*** Sampled system activity (Sun Sep  6 23:32:15 2026 +0300) (224.86ms elapsed) ***
+CPU Power: 84 mW
+GPU Power: 0 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Sun Sep  6 23:32:16 2026 +0300) (225.04ms elapsed) ***
+CPU Power: 138 mW
+GPU Power: 31 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 31 mW
+*** Sampled system activity (Sun Sep  6 23:32:16 2026 +0300) (222.66ms elapsed) ***
+CPU Power: 126 mW
+GPU Power: 18 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 18 mW
+*** Sampled system activity (Sun Sep  6 23:32:16 2026 +0300) (222.74ms elapsed) ***
+CPU Power: 153 mW
+GPU Power: 18 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 18 mW
+*** Sampled system activity (Sun Sep  6 23:32:16 2026 +0300) (223.49ms elapsed) ***
+CPU Power: 125 mW
+GPU Power: 0 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:32:17 2026 +0300) (226.27ms elapsed) ***
+CPU Power: 102 mW
+GPU Power: 9 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 9 mW
+*** Sampled system activity (Sun Sep  6 23:32:17 2026 +0300) (224.94ms elapsed) ***
+CPU Power: 107 mW
+GPU Power: 22 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 22 mW
+*** Sampled system activity (Sun Sep  6 23:32:17 2026 +0300) (226.47ms elapsed) ***
+CPU Power: 88 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:32:17 2026 +0300) (222.27ms elapsed) ***
+CPU Power: 90 mW
+GPU Power: 0 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Sun Sep  6 23:32:17 2026 +0300) (225.38ms elapsed) ***
+CPU Power: 71 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:32:18 2026 +0300) (225.26ms elapsed) ***
+CPU Power: 129 mW
+GPU Power: 22 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 22 mW
+*** Sampled system activity (Sun Sep  6 23:32:18 2026 +0300) (223.20ms elapsed) ***
+CPU Power: 81 mW
+GPU Power: 9 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 9 mW
+*** Sampled system activity (Sun Sep  6 23:32:18 2026 +0300) (224.89ms elapsed) ***
+CPU Power: 67 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 22 mW
+*** Sampled system activity (Sun Sep  6 23:32:18 2026 +0300) (226.56ms elapsed) ***
+CPU Power: 84 mW
+GPU Power: 18 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Sun Sep  6 23:32:19 2026 +0300) (225.27ms elapsed) ***
+CPU Power: 107 mW
+GPU Power: 9 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 9 mW
+*** Sampled system activity (Sun Sep  6 23:32:19 2026 +0300) (223.94ms elapsed) ***
+CPU Power: 786 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:32:19 2026 +0300) (218.05ms elapsed) ***
+CPU Power: 96 mW
+GPU Power: 5 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 5 mW
+*** Sampled system activity (Sun Sep  6 23:32:19 2026 +0300) (225.26ms elapsed) ***
+CPU Power: 89 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:32:19 2026 +0300) (224.24ms elapsed) ***
+CPU Power: 98 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 9 mW
+*** Sampled system activity (Sun Sep  6 23:32:20 2026 +0300) (221.82ms elapsed) ***
+CPU Power: 189 mW
+GPU Power: 23 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 18 mW
+*** Sampled system activity (Sun Sep  6 23:32:20 2026 +0300) (225.21ms elapsed) ***
+CPU Power: 58 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:32:20 2026 +0300) (225.44ms elapsed) ***
+CPU Power: 102 mW
+GPU Power: 22 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 22 mW
+*** Sampled system activity (Sun Sep  6 23:32:20 2026 +0300) (224.65ms elapsed) ***
+CPU Power: 85 mW
+GPU Power: 9 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 9 mW
+*** Sampled system activity (Sun Sep  6 23:32:21 2026 +0300) (224.85ms elapsed) ***
+CPU Power: 102 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:32:21 2026 +0300) (223.23ms elapsed) ***
+CPU Power: 157 mW
+GPU Power: 36 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 36 mW
+*** Sampled system activity (Sun Sep  6 23:32:21 2026 +0300) (223.18ms elapsed) ***
+CPU Power: 134 mW
+GPU Power: 18 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 18 mW
+*** Sampled system activity (Sun Sep  6 23:32:21 2026 +0300) (221.98ms elapsed) ***
+CPU Power: 126 mW
+GPU Power: 9 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 9 mW
+*** Sampled system activity (Sun Sep  6 23:32:21 2026 +0300) (225.72ms elapsed) ***
+CPU Power: 75 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:32:22 2026 +0300) (224.61ms elapsed) ***
+CPU Power: 129 mW
+GPU Power: 18 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 18 mW
+*** Sampled system activity (Sun Sep  6 23:32:22 2026 +0300) (225.70ms elapsed) ***
+CPU Power: 93 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:32:22 2026 +0300) (224.94ms elapsed) ***
+CPU Power: 84 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:32:22 2026 +0300) (225.62ms elapsed) ***
+CPU Power: 89 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:32:23 2026 +0300) (224.54ms elapsed) ***
+CPU Power: 120 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:32:23 2026 +0300) (225.29ms elapsed) ***
+CPU Power: 71 mW
+GPU Power: 27 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 27 mW
+*** Sampled system activity (Sun Sep  6 23:32:23 2026 +0300) (223.65ms elapsed) ***
+CPU Power: 85 mW
+GPU Power: 22 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 22 mW
+*** Sampled system activity (Sun Sep  6 23:32:23 2026 +0300) (224.22ms elapsed) ***
+CPU Power: 76 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:32:24 2026 +0300) (225.31ms elapsed) ***
+CPU Power: 71 mW
+GPU Power: 0 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Sun Sep  6 23:32:24 2026 +0300) (223.61ms elapsed) ***
+CPU Power: 107 mW
+GPU Power: 0 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Sun Sep  6 23:32:24 2026 +0300) (225.27ms elapsed) ***
+CPU Power: 80 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:32:24 2026 +0300) (225.43ms elapsed) ***
+CPU Power: 67 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:32:24 2026 +0300) (224.99ms elapsed) ***
+CPU Power: 71 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:32:25 2026 +0300) (224.70ms elapsed) ***
+CPU Power: 116 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:32:25 2026 +0300) (223.16ms elapsed) ***
+CPU Power: 67 mW
+GPU Power: 0 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Sun Sep  6 23:32:25 2026 +0300) (224.75ms elapsed) ***
+CPU Power: 62 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Sun Sep  6 23:32:25 2026 +0300) (225.71ms elapsed) ***
+CPU Power: 80 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:32:26 2026 +0300) (224.22ms elapsed) ***
+CPU Power: 89 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:32:26 2026 +0300) (225.33ms elapsed) ***
+CPU Power: 178 mW
+GPU Power: 31 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 31 mW
+*** Sampled system activity (Sun Sep  6 23:32:26 2026 +0300) (223.44ms elapsed) ***
+CPU Power: 166 mW
+GPU Power: 13 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 13 mW
+*** Sampled system activity (Sun Sep  6 23:32:26 2026 +0300) (222.13ms elapsed) ***
+CPU Power: 419 mW
+GPU Power: 5 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 5 mW
+*** Sampled system activity (Sun Sep  6 23:32:26 2026 +0300) (225.12ms elapsed) ***
+CPU Power: 76 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:32:27 2026 +0300) (224.61ms elapsed) ***
+CPU Power: 93 mW
+GPU Power: 22 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 27 mW
+*** Sampled system activity (Sun Sep  6 23:32:27 2026 +0300) (225.23ms elapsed) ***
+CPU Power: 98 mW
+GPU Power: 9 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Sun Sep  6 23:32:27 2026 +0300) (225.30ms elapsed) ***
+CPU Power: 71 mW
+GPU Power: 18 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 18 mW
+*** Sampled system activity (Sun Sep  6 23:32:27 2026 +0300) (225.40ms elapsed) ***
+CPU Power: 80 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:32:28 2026 +0300) (225.61ms elapsed) ***
+CPU Power: 160 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:32:28 2026 +0300) (224.57ms elapsed) ***
+CPU Power: 89 mW
+GPU Power: 18 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 18 mW
+*** Sampled system activity (Sun Sep  6 23:32:28 2026 +0300) (224.58ms elapsed) ***
+CPU Power: 80 mW
+GPU Power: 9 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 9 mW
+*** Sampled system activity (Sun Sep  6 23:32:28 2026 +0300) (223.66ms elapsed) ***
+CPU Power: 94 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:32:28 2026 +0300) (223.94ms elapsed) ***
+CPU Power: 71 mW
+GPU Power: 0 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Sun Sep  6 23:32:29 2026 +0300) (224.98ms elapsed) ***
+CPU Power: 102 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Sun Sep  6 23:32:29 2026 +0300) (224.91ms elapsed) ***
+CPU Power: 98 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:32:29 2026 +0300) (225.90ms elapsed) ***
+CPU Power: 106 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:32:29 2026 +0300) (225.10ms elapsed) ***
+CPU Power: 107 mW
+GPU Power: 27 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 27 mW
+*** Sampled system activity (Sun Sep  6 23:32:30 2026 +0300) (225.51ms elapsed) ***
+CPU Power: 115 mW
+GPU Power: 22 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 22 mW
+*** Sampled system activity (Sun Sep  6 23:32:30 2026 +0300) (224.78ms elapsed) ***
+CPU Power: 67 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:32:30 2026 +0300) (225.57ms elapsed) ***
+CPU Power: 75 mW
+GPU Power: 27 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 27 mW
+*** Sampled system activity (Sun Sep  6 23:32:30 2026 +0300) (224.71ms elapsed) ***
+CPU Power: 71 mW
+GPU Power: 0 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 9 mW
+*** Sampled system activity (Sun Sep  6 23:32:30 2026 +0300) (224.38ms elapsed) ***
+CPU Power: 76 mW
+GPU Power: 9 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Sun Sep  6 23:32:31 2026 +0300) (225.20ms elapsed) ***
+CPU Power: 160 mW
+GPU Power: 27 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 27 mW
+*** Sampled system activity (Sun Sep  6 23:32:31 2026 +0300) (222.35ms elapsed) ***
+CPU Power: 139 mW
+GPU Power: 9 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 9 mW
+*** Sampled system activity (Sun Sep  6 23:32:31 2026 +0300) (223.87ms elapsed) ***
+CPU Power: 116 mW
+GPU Power: 9 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 9 mW
+*** Sampled system activity (Sun Sep  6 23:32:31 2026 +0300) (224.69ms elapsed) ***
+CPU Power: 779 mW
+GPU Power: 0 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Sun Sep  6 23:32:32 2026 +0300) (217.19ms elapsed) ***
+CPU Power: 6165 mW
+GPU Power: 32 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 32 mW
+*** Sampled system activity (Sun Sep  6 23:32:32 2026 +0300) (216.42ms elapsed) ***
+CPU Power: 2551 mW
+GPU Power: 0 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Sun Sep  6 23:32:32 2026 +0300) (218.12ms elapsed) ***
+CPU Power: 119 mW
+GPU Power: 5 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 5 mW
+*** Sampled system activity (Sun Sep  6 23:32:32 2026 +0300) (223.27ms elapsed) ***
+CPU Power: 81 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:32:32 2026 +0300) (225.51ms elapsed) ***
+CPU Power: 75 mW
+GPU Power: 4 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 4 mW
+*** Sampled system activity (Sun Sep  6 23:32:33 2026 +0300) (224.84ms elapsed) ***
+CPU Power: 102 mW
+GPU Power: 18 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 18 mW
+*** Sampled system activity (Sun Sep  6 23:32:33 2026 +0300) (226.14ms elapsed) ***
+CPU Power: 75 mW
+GPU Power: 9 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 9 mW
+*** Sampled system activity (Sun Sep  6 23:32:33 2026 +0300) (224.48ms elapsed) ***
+CPU Power: 85 mW
+GPU Power: 22 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 22 mW
+*** Sampled system activity (Sun Sep  6 23:32:33 2026 +0300) (222.21ms elapsed) ***
+CPU Power: 131 mW
+GPU Power: 5 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 5 mW
+*** Sampled system activity (Mon Sep  7 00:13:23 2026 +0300) (218.89ms elapsed) ***
+CPU Power: 224 mW
+GPU Power: 0 mW
+ANE Power: 2673 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:23 2026 +0300) (217.92ms elapsed) ***
+CPU Power: 193 mW
+GPU Power: 0 mW
+ANE Power: 2886 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:23 2026 +0300) (216.26ms elapsed) ***
+CPU Power: 185 mW
+GPU Power: 0 mW
+ANE Power: 2793 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:23 2026 +0300) (217.87ms elapsed) ***
+CPU Power: 207 mW
+GPU Power: 0 mW
+ANE Power: 2777 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:23 2026 +0300) (218.13ms elapsed) ***
+CPU Power: 431 mW
+GPU Power: 0 mW
+ANE Power: 2439 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:24 2026 +0300) (216.58ms elapsed) ***
+CPU Power: 185 mW
+GPU Power: 0 mW
+ANE Power: 2632 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:24 2026 +0300) (217.20ms elapsed) ***
+CPU Power: 216 mW
+GPU Power: 0 mW
+ANE Power: 2960 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:24 2026 +0300) (218.26ms elapsed) ***
+CPU Power: 183 mW
+GPU Power: 0 mW
+ANE Power: 2781 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:24 2026 +0300) (216.32ms elapsed) ***
+CPU Power: 217 mW
+GPU Power: 0 mW
+ANE Power: 2792 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:25 2026 +0300) (218.05ms elapsed) ***
+CPU Power: 422 mW
+GPU Power: 0 mW
+ANE Power: 2444 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:25 2026 +0300) (217.40ms elapsed) ***
+CPU Power: 179 mW
+GPU Power: 0 mW
+ANE Power: 2622 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:25 2026 +0300) (216.95ms elapsed) ***
+CPU Power: 198 mW
+GPU Power: 0 mW
+ANE Power: 2955 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:25 2026 +0300) (216.87ms elapsed) ***
+CPU Power: 194 mW
+GPU Power: 0 mW
+ANE Power: 2794 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:25 2026 +0300) (216.57ms elapsed) ***
+CPU Power: 254 mW
+GPU Power: 0 mW
+ANE Power: 2784 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:26 2026 +0300) (218.26ms elapsed) ***
+CPU Power: 376 mW
+GPU Power: 0 mW
+ANE Power: 2437 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:26 2026 +0300) (216.95ms elapsed) ***
+CPU Power: 207 mW
+GPU Power: 0 mW
+ANE Power: 2623 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:26 2026 +0300) (217.42ms elapsed) ***
+CPU Power: 184 mW
+GPU Power: 0 mW
+ANE Power: 2925 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:26 2026 +0300) (217.40ms elapsed) ***
+CPU Power: 207 mW
+GPU Power: 0 mW
+ANE Power: 2668 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:27 2026 +0300) (216.13ms elapsed) ***
+CPU Power: 273 mW
+GPU Power: 0 mW
+ANE Power: 2744 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:27 2026 +0300) (216.41ms elapsed) ***
+CPU Power: 384 mW
+GPU Power: 0 mW
+ANE Power: 2639 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:27 2026 +0300) (216.36ms elapsed) ***
+CPU Power: 213 mW
+GPU Power: 0 mW
+ANE Power: 2635 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:27 2026 +0300) (216.61ms elapsed) ***
+CPU Power: 189 mW
+GPU Power: 0 mW
+ANE Power: 2922 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:27 2026 +0300) (218.00ms elapsed) ***
+CPU Power: 284 mW
+GPU Power: 0 mW
+ANE Power: 2739 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:28 2026 +0300) (216.67ms elapsed) ***
+CPU Power: 198 mW
+GPU Power: 0 mW
+ANE Power: 2663 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:28 2026 +0300) (216.90ms elapsed) ***
+CPU Power: 373 mW
+GPU Power: 0 mW
+ANE Power: 2665 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:28 2026 +0300) (216.35ms elapsed) ***
+CPU Power: 194 mW
+GPU Power: 0 mW
+ANE Power: 2635 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:28 2026 +0300) (217.28ms elapsed) ***
+CPU Power: 189 mW
+GPU Power: 0 mW
+ANE Power: 2899 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:28 2026 +0300) (216.81ms elapsed) ***
+CPU Power: 258 mW
+GPU Power: 0 mW
+ANE Power: 2643 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:29 2026 +0300) (217.20ms elapsed) ***
+CPU Power: 180 mW
+GPU Power: 0 mW
+ANE Power: 2698 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:29 2026 +0300) (216.79ms elapsed) ***
+CPU Power: 378 mW
+GPU Power: 0 mW
+ANE Power: 2722 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:29 2026 +0300) (216.97ms elapsed) ***
+CPU Power: 198 mW
+GPU Power: 0 mW
+ANE Power: 2604 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:29 2026 +0300) (217.07ms elapsed) ***
+CPU Power: 217 mW
+GPU Power: 0 mW
+ANE Power: 2884 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:30 2026 +0300) (217.77ms elapsed) ***
+CPU Power: 230 mW
+GPU Power: 0 mW
+ANE Power: 2686 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:30 2026 +0300) (216.61ms elapsed) ***
+CPU Power: 175 mW
+GPU Power: 0 mW
+ANE Power: 2701 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:30 2026 +0300) (217.26ms elapsed) ***
+CPU Power: 377 mW
+GPU Power: 0 mW
+ANE Power: 2725 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:30 2026 +0300) (217.37ms elapsed) ***
+CPU Power: 189 mW
+GPU Power: 0 mW
+ANE Power: 2484 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:30 2026 +0300) (218.22ms elapsed) ***
+CPU Power: 270 mW
+GPU Power: 0 mW
+ANE Power: 2809 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:31 2026 +0300) (217.68ms elapsed) ***
+CPU Power: 198 mW
+GPU Power: 0 mW
+ANE Power: 2871 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:31 2026 +0300) (217.11ms elapsed) ***
+CPU Power: 198 mW
+GPU Power: 0 mW
+ANE Power: 2708 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:31 2026 +0300) (217.35ms elapsed) ***
+CPU Power: 359 mW
+GPU Power: 0 mW
+ANE Power: 2714 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:31 2026 +0300) (218.12ms elapsed) ***
+CPU Power: 206 mW
+GPU Power: 0 mW
+ANE Power: 2494 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:32 2026 +0300) (218.11ms elapsed) ***
+CPU Power: 261 mW
+GPU Power: 0 mW
+ANE Power: 2815 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:32 2026 +0300) (216.71ms elapsed) ***
+CPU Power: 203 mW
+GPU Power: 0 mW
+ANE Power: 2870 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:32 2026 +0300) (216.05ms elapsed) ***
+CPU Power: 222 mW
+GPU Power: 0 mW
+ANE Power: 2717 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:32 2026 +0300) (217.28ms elapsed) ***
+CPU Power: 345 mW
+GPU Power: 0 mW
+ANE Power: 2715 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:32 2026 +0300) (216.94ms elapsed) ***
+CPU Power: 244 mW
+GPU Power: 0 mW
+ANE Power: 2503 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:33 2026 +0300) (218.39ms elapsed) ***
+CPU Power: 678 mW
+GPU Power: 0 mW
+ANE Power: 2903 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:33 2026 +0300) (218.27ms elapsed) ***
+CPU Power: 188 mW
+GPU Power: 0 mW
+ANE Power: 2772 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:33 2026 +0300) (216.50ms elapsed) ***
+CPU Power: 189 mW
+GPU Power: 0 mW
+ANE Power: 2707 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:33 2026 +0300) (217.21ms elapsed) ***
+CPU Power: 382 mW
+GPU Power: 0 mW
+ANE Power: 2725 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:33 2026 +0300) (217.55ms elapsed) ***
+CPU Power: 257 mW
+GPU Power: 0 mW
+ANE Power: 2496 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:34 2026 +0300) (217.00ms elapsed) ***
+CPU Power: 230 mW
+GPU Power: 0 mW
+ANE Power: 2793 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:34 2026 +0300) (216.48ms elapsed) ***
+CPU Power: 522 mW
+GPU Power: 0 mW
+ANE Power: 2901 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:34 2026 +0300) (218.43ms elapsed) ***
+CPU Power: 179 mW
+GPU Power: 0 mW
+ANE Power: 2697 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:34 2026 +0300) (217.40ms elapsed) ***
+CPU Power: 423 mW
+GPU Power: 0 mW
+ANE Power: 2723 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:35 2026 +0300) (216.07ms elapsed) ***
+CPU Power: 255 mW
+GPU Power: 0 mW
+ANE Power: 2504 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:35 2026 +0300) (217.37ms elapsed) ***
+CPU Power: 175 mW
+GPU Power: 0 mW
+ANE Power: 2765 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:35 2026 +0300) (217.98ms elapsed) ***
+CPU Power: 197 mW
+GPU Power: 0 mW
+ANE Power: 2918 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:35 2026 +0300) (216.29ms elapsed) ***
+CPU Power: 171 mW
+GPU Power: 0 mW
+ANE Power: 2709 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:35 2026 +0300) (218.09ms elapsed) ***
+CPU Power: 500 mW
+GPU Power: 0 mW
+ANE Power: 2714 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:36 2026 +0300) (217.28ms elapsed) ***
+CPU Power: 189 mW
+GPU Power: 0 mW
+ANE Power: 2499 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:36 2026 +0300) (218.25ms elapsed) ***
+CPU Power: 192 mW
+GPU Power: 0 mW
+ANE Power: 2758 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:36 2026 +0300) (217.92ms elapsed) ***
+CPU Power: 188 mW
+GPU Power: 0 mW
+ANE Power: 2919 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:36 2026 +0300) (218.03ms elapsed) ***
+CPU Power: 197 mW
+GPU Power: 0 mW
+ANE Power: 2697 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:37 2026 +0300) (216.07ms elapsed) ***
+CPU Power: 454 mW
+GPU Power: 0 mW
+ANE Power: 2712 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:37 2026 +0300) (217.19ms elapsed) ***
+CPU Power: 189 mW
+GPU Power: 0 mW
+ANE Power: 2514 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:37 2026 +0300) (216.93ms elapsed) ***
+CPU Power: 212 mW
+GPU Power: 0 mW
+ANE Power: 2752 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:37 2026 +0300) (217.28ms elapsed) ***
+CPU Power: 184 mW
+GPU Power: 0 mW
+ANE Power: 2923 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:37 2026 +0300) (217.22ms elapsed) ***
+CPU Power: 235 mW
+GPU Power: 0 mW
+ANE Power: 2712 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:38 2026 +0300) (218.19ms elapsed) ***
+CPU Power: 403 mW
+GPU Power: 0 mW
+ANE Power: 2704 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:38 2026 +0300) (216.22ms elapsed) ***
+CPU Power: 222 mW
+GPU Power: 0 mW
+ANE Power: 2516 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:38 2026 +0300) (215.46ms elapsed) ***
+CPU Power: 186 mW
+GPU Power: 0 mW
+ANE Power: 2766 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:38 2026 +0300) (216.69ms elapsed) ***
+CPU Power: 208 mW
+GPU Power: 0 mW
+ANE Power: 2912 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:38 2026 +0300) (216.67ms elapsed) ***
+CPU Power: 268 mW
+GPU Power: 0 mW
+ANE Power: 2709 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:39 2026 +0300) (217.30ms elapsed) ***
+CPU Power: 377 mW
+GPU Power: 0 mW
+ANE Power: 2513 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:39 2026 +0300) (217.12ms elapsed) ***
+CPU Power: 193 mW
+GPU Power: 0 mW
+ANE Power: 2727 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:39 2026 +0300) (217.32ms elapsed) ***
+CPU Power: 179 mW
+GPU Power: 0 mW
+ANE Power: 2756 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:39 2026 +0300) (217.92ms elapsed) ***
+CPU Power: 211 mW
+GPU Power: 0 mW
+ANE Power: 2882 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:40 2026 +0300) (217.17ms elapsed) ***
+CPU Power: 235 mW
+GPU Power: 0 mW
+ANE Power: 2721 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:40 2026 +0300) (216.57ms elapsed) ***
+CPU Power: 388 mW
+GPU Power: 0 mW
+ANE Power: 2470 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:40 2026 +0300) (216.46ms elapsed) ***
+CPU Power: 222 mW
+GPU Power: 0 mW
+ANE Power: 2786 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:40 2026 +0300) (217.22ms elapsed) ***
+CPU Power: 175 mW
+GPU Power: 0 mW
+ANE Power: 2758 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:40 2026 +0300) (216.72ms elapsed) ***
+CPU Power: 258 mW
+GPU Power: 0 mW
+ANE Power: 2893 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:41 2026 +0300) (218.43ms elapsed) ***
+CPU Power: 183 mW
+GPU Power: 0 mW
+ANE Power: 2568 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:41 2026 +0300) (217.18ms elapsed) ***
+CPU Power: 368 mW
+GPU Power: 0 mW
+ANE Power: 2602 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:41 2026 +0300) (216.94ms elapsed) ***
+CPU Power: 203 mW
+GPU Power: 0 mW
+ANE Power: 2784 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:41 2026 +0300) (217.18ms elapsed) ***
+CPU Power: 203 mW
+GPU Power: 0 mW
+ANE Power: 2758 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:42 2026 +0300) (216.82ms elapsed) ***
+CPU Power: 378 mW
+GPU Power: 0 mW
+ANE Power: 2896 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:42 2026 +0300) (217.13ms elapsed) ***
+CPU Power: 189 mW
+GPU Power: 0 mW
+ANE Power: 2542 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:42 2026 +0300) (216.78ms elapsed) ***
+CPU Power: 401 mW
+GPU Power: 0 mW
+ANE Power: 2579 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:42 2026 +0300) (218.18ms elapsed) ***
+CPU Power: 179 mW
+GPU Power: 0 mW
+ANE Power: 2833 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:42 2026 +0300) (218.02ms elapsed) ***
+CPU Power: 225 mW
+GPU Power: 0 mW
+ANE Power: 2757 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:43 2026 +0300) (216.97ms elapsed) ***
+CPU Power: 240 mW
+GPU Power: 0 mW
+ANE Power: 2876 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:43 2026 +0300) (216.47ms elapsed) ***
+CPU Power: 217 mW
+GPU Power: 0 mW
+ANE Power: 2573 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:43 2026 +0300) (216.10ms elapsed) ***
+CPU Power: 393 mW
+GPU Power: 0 mW
+ANE Power: 2578 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:43 2026 +0300) (217.10ms elapsed) ***
+CPU Power: 216 mW
+GPU Power: 0 mW
+ANE Power: 2837 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:43 2026 +0300) (216.28ms elapsed) ***
+CPU Power: 296 mW
+GPU Power: 0 mW
+ANE Power: 2783 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:44 2026 +0300) (218.24ms elapsed) ***
+CPU Power: 192 mW
+GPU Power: 0 mW
+ANE Power: 2873 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:44 2026 +0300) (217.56ms elapsed) ***
+CPU Power: 225 mW
+GPU Power: 0 mW
+ANE Power: 2551 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:44 2026 +0300) (216.37ms elapsed) ***
+CPU Power: 374 mW
+GPU Power: 0 mW
+ANE Power: 2579 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:44 2026 +0300) (218.18ms elapsed) ***
+CPU Power: 257 mW
+GPU Power: 0 mW
+ANE Power: 2819 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:45 2026 +0300) (215.99ms elapsed) ***
+CPU Power: 273 mW
+GPU Power: 0 mW
+ANE Power: 2773 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:45 2026 +0300) (216.61ms elapsed) ***
+CPU Power: 194 mW
+GPU Power: 0 mW
+ANE Power: 2872 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:45 2026 +0300) (217.05ms elapsed) ***
+CPU Power: 212 mW
+GPU Power: 0 mW
+ANE Power: 2585 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:45 2026 +0300) (217.29ms elapsed) ***
+CPU Power: 350 mW
+GPU Power: 0 mW
+ANE Power: 2573 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:45 2026 +0300) (216.38ms elapsed) ***
+CPU Power: 245 mW
+GPU Power: 0 mW
+ANE Power: 2819 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:46 2026 +0300) (218.27ms elapsed) ***
+CPU Power: 215 mW
+GPU Power: 0 mW
+ANE Power: 2744 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:46 2026 +0300) (218.12ms elapsed) ***
+CPU Power: 206 mW
+GPU Power: 0 mW
+ANE Power: 2897 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:46 2026 +0300) (217.33ms elapsed) ***
+CPU Power: 189 mW
+GPU Power: 0 mW
+ANE Power: 2572 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:46 2026 +0300) (216.90ms elapsed) ***
+CPU Power: 387 mW
+GPU Power: 0 mW
+ANE Power: 2563 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:47 2026 +0300) (216.80ms elapsed) ***
+CPU Power: 249 mW
+GPU Power: 0 mW
+ANE Power: 2809 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:47 2026 +0300) (217.06ms elapsed) ***
+CPU Power: 193 mW
+GPU Power: 0 mW
+ANE Power: 2594 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:47 2026 +0300) (216.35ms elapsed) ***
+CPU Power: 213 mW
+GPU Power: 0 mW
+ANE Power: 2787 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:47 2026 +0300) (217.36ms elapsed) ***
+CPU Power: 179 mW
+GPU Power: 0 mW
+ANE Power: 2857 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:47 2026 +0300) (216.38ms elapsed) ***
+CPU Power: 379 mW
+GPU Power: 0 mW
+ANE Power: 2570 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:48 2026 +0300) (216.81ms elapsed) ***
+CPU Power: 244 mW
+GPU Power: 0 mW
+ANE Power: 2800 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:48 2026 +0300) (218.23ms elapsed) ***
+CPU Power: 192 mW
+GPU Power: 0 mW
+ANE Power: 2603 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:48 2026 +0300) (217.74ms elapsed) ***
+CPU Power: 207 mW
+GPU Power: 0 mW
+ANE Power: 2779 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:48 2026 +0300) (216.07ms elapsed) ***
+CPU Power: 199 mW
+GPU Power: 0 mW
+ANE Power: 2883 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:48 2026 +0300) (216.60ms elapsed) ***
+CPU Power: 429 mW
+GPU Power: 0 mW
+ANE Power: 2567 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:49 2026 +0300) (218.29ms elapsed) ***
+CPU Power: 179 mW
+GPU Power: 0 mW
+ANE Power: 2785 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:49 2026 +0300) (216.35ms elapsed) ***
+CPU Power: 203 mW
+GPU Power: 0 mW
+ANE Power: 2607 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:49 2026 +0300) (217.92ms elapsed) ***
+CPU Power: 211 mW
+GPU Power: 0 mW
+ANE Power: 2758 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:49 2026 +0300) (217.86ms elapsed) ***
+CPU Power: 207 mW
+GPU Power: 0 mW
+ANE Power: 2860 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:50 2026 +0300) (215.30ms elapsed) ***
+CPU Power: 432 mW
+GPU Power: 0 mW
+ANE Power: 2438 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:50 2026 +0300) (217.27ms elapsed) ***
+CPU Power: 180 mW
+GPU Power: 0 mW
+ANE Power: 2660 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:50 2026 +0300) (218.03ms elapsed) ***
+CPU Power: 202 mW
+GPU Power: 0 mW
+ANE Power: 2871 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:50 2026 +0300) (217.08ms elapsed) ***
+CPU Power: 189 mW
+GPU Power: 0 mW
+ANE Power: 2782 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:50 2026 +0300) (216.79ms elapsed) ***
+CPU Power: 221 mW
+GPU Power: 0 mW
+ANE Power: 2865 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:51 2026 +0300) (218.22ms elapsed) ***
+CPU Power: 385 mW
+GPU Power: 0 mW
+ANE Power: 2433 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:51 2026 +0300) (218.23ms elapsed) ***
+CPU Power: 220 mW
+GPU Power: 0 mW
+ANE Power: 2658 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:51 2026 +0300) (217.69ms elapsed) ***
+CPU Power: 193 mW
+GPU Power: 0 mW
+ANE Power: 2866 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:51 2026 +0300) (217.19ms elapsed) ***
+CPU Power: 184 mW
+GPU Power: 0 mW
+ANE Power: 2786 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:51 2026 +0300) (216.93ms elapsed) ***
+CPU Power: 249 mW
+GPU Power: 0 mW
+ANE Power: 2858 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:52 2026 +0300) (216.89ms elapsed) ***
+CPU Power: 383 mW
+GPU Power: 0 mW
+ANE Power: 2439 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:52 2026 +0300) (216.81ms elapsed) ***
+CPU Power: 249 mW
+GPU Power: 0 mW
+ANE Power: 2726 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:52 2026 +0300) (217.03ms elapsed) ***
+CPU Power: 198 mW
+GPU Power: 0 mW
+ANE Power: 2834 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:52 2026 +0300) (216.60ms elapsed) ***
+CPU Power: 199 mW
+GPU Power: 0 mW
+ANE Power: 2784 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:53 2026 +0300) (216.09ms elapsed) ***
+CPU Power: 241 mW
+GPU Power: 0 mW
+ANE Power: 2864 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:53 2026 +0300) (217.22ms elapsed) ***
+CPU Power: 368 mW
+GPU Power: 0 mW
+ANE Power: 2435 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:53 2026 +0300) (217.03ms elapsed) ***
+CPU Power: 217 mW
+GPU Power: 0 mW
+ANE Power: 2599 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:53 2026 +0300) (216.39ms elapsed) ***
+CPU Power: 176 mW
+GPU Power: 0 mW
+ANE Power: 2925 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:53 2026 +0300) (217.86ms elapsed) ***
+CPU Power: 248 mW
+GPU Power: 0 mW
+ANE Power: 2791 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:54 2026 +0300) (217.67ms elapsed) ***
+CPU Power: 193 mW
+GPU Power: 0 mW
+ANE Power: 2858 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:54 2026 +0300) (216.77ms elapsed) ***
+CPU Power: 383 mW
+GPU Power: 0 mW
+ANE Power: 2440 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:54 2026 +0300) (217.17ms elapsed) ***
+CPU Power: 189 mW
+GPU Power: 0 mW
+ANE Power: 2592 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:54 2026 +0300) (217.96ms elapsed) ***
+CPU Power: 188 mW
+GPU Power: 0 mW
+ANE Power: 2913 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:55 2026 +0300) (216.78ms elapsed) ***
+CPU Power: 263 mW
+GPU Power: 0 mW
+ANE Power: 2809 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:55 2026 +0300) (217.41ms elapsed) ***
+CPU Power: 179 mW
+GPU Power: 0 mW
+ANE Power: 2852 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:55 2026 +0300) (216.35ms elapsed) ***
+CPU Power: 374 mW
+GPU Power: 0 mW
+ANE Power: 2459 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:55 2026 +0300) (217.11ms elapsed) ***
+CPU Power: 193 mW
+GPU Power: 0 mW
+ANE Power: 2598 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:55 2026 +0300) (217.10ms elapsed) ***
+CPU Power: 212 mW
+GPU Power: 0 mW
+ANE Power: 2916 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:56 2026 +0300) (218.22ms elapsed) ***
+CPU Power: 220 mW
+GPU Power: 0 mW
+ANE Power: 2750 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:56 2026 +0300) (218.12ms elapsed) ***
+CPU Power: 193 mW
+GPU Power: 0 mW
+ANE Power: 2870 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:56 2026 +0300) (215.80ms elapsed) ***
+CPU Power: 380 mW
+GPU Power: 0 mW
+ANE Power: 2465 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:56 2026 +0300) (217.33ms elapsed) ***
+CPU Power: 170 mW
+GPU Power: 0 mW
+ANE Power: 2595 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:56 2026 +0300) (216.33ms elapsed) ***
+CPU Power: 250 mW
+GPU Power: 0 mW
+ANE Power: 2903 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:57 2026 +0300) (217.09ms elapsed) ***
+CPU Power: 180 mW
+GPU Power: 0 mW
+ANE Power: 2626 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:57 2026 +0300) (216.63ms elapsed) ***
+CPU Power: 217 mW
+GPU Power: 0 mW
+ANE Power: 2834 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:57 2026 +0300) (217.04ms elapsed) ***
+CPU Power: 369 mW
+GPU Power: 0 mW
+ANE Power: 2672 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:57 2026 +0300) (218.09ms elapsed) ***
+CPU Power: 206 mW
+GPU Power: 0 mW
+ANE Power: 2591 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:58 2026 +0300) (216.88ms elapsed) ***
+CPU Power: 300 mW
+GPU Power: 0 mW
+ANE Power: 2900 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:58 2026 +0300) (216.70ms elapsed) ***
+CPU Power: 185 mW
+GPU Power: 0 mW
+ANE Power: 2630 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:58 2026 +0300) (217.09ms elapsed) ***
+CPU Power: 235 mW
+GPU Power: 0 mW
+ANE Power: 2773 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:58 2026 +0300) (217.97ms elapsed) ***
+CPU Power: 876 mW
+GPU Power: 0 mW
+ANE Power: 1789 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:58 2026 +0300) (217.57ms elapsed) ***
+CPU Power: 106 mW
+GPU Power: 0 mW
+ANE Power: 5 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:59 2026 +0300) (223.32ms elapsed) ***
+CPU Power: 85 mW
+GPU Power: 0 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:59 2026 +0300) (221.48ms elapsed) ***
+CPU Power: 77 mW
+GPU Power: 0 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:59 2026 +0300) (222.38ms elapsed) ***
+CPU Power: 54 mW
+GPU Power: 0 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
+*** Sampled system activity (Mon Sep  7 00:13:59 2026 +0300) (224.84ms elapsed) ***
+CPU Power: 53 mW
+GPU Power: 0 mW
+ANE Power: 0 mW
+Current pressure level: Nominal
+GPU Power: 0 mW
